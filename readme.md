@@ -8,6 +8,9 @@ Github Actions is a CI/CD tool that allows you to automate your workflow. It is 
 - Repository with code (you can use this repository)
 
 ## Steps
+1. Go to your Github repo that contain the project
+  ![1](https://github.com/user-attachments/assets/2b78c4c7-d192-4059-94b4-0689dd33f13a)
+
 2. Go to the action tab on the top. 
   ![2](https://github.com/user-attachments/assets/f1e2dc1b-2cc0-48aa-82b8-2224cab8f0f1)
 
@@ -42,4 +45,13 @@ jobs:
 
 6. Check the Actions tab in the repository to view 
   ![6](https://github.com/user-attachments/assets/aaa75c46-1fcf-4b7b-b9da-1bb6057a8092)
+
+  **Summary of workflow**
+  ![ss](https://github.com/user-attachments/assets/e2bc0b92-08cd-4f7c-a5ba-824faf20f073)
+  Click on it to learn more about the job
+  ![our job success](https://github.com/user-attachments/assets/1dfaf56f-adff-4c20-9c76-607bbf4813d6)
+
+  I have succesfully created a CI pipeline with automated build and test
+
+
 
